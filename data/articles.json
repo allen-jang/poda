@@ -1,10 +1,26 @@
 [
   {
+    "package_id": "5th-gen-silson-20260529",
+    "date": "2026-05-29",
+    "topic": "5세대 실손보험 비교: 기존 실손 유지·전환 전 확인할 기준",
+    "status": "final_copy_ready",
+    "category": "insurance",
+    "category_label": "일상 머니 팁 > 보험 점검",
+    "basis_date": "2026-05-29",
+    "created_at": "2026-05-29T09:00:00+09:00",
+    "updated_at": "2026-05-29T09:00:00+09:00",
+    "selected_title": "5세대 실손보험 비교: 기존 실손 유지·전환 전 확인할 기준",
+    "bundle_dir": "_workspace/naver-blog/daily/2026-05-29/5th-gen-silson-20260529",
+    "site_detail_path": "_workspace/naver-blog/site/articles/5th-gen-silson-20260529.html",
+    "github_pages_detail_path": "articles/5th-gen-silson-20260529.html"
+  },
+  {
     "package_id": "super-isa-20260528",
     "date": "2026-05-28",
     "topic": "6월 출시 예정으로 언급되는 슈퍼 ISA 계좌 정리",
     "status": "final_copy_ready",
     "category": "investment",
+    "category_label": "금융상품 기초 > 절세 계좌",
     "basis_date": "2026-05-28",
     "created_at": "2026-05-28T23:30:00+09:00",
     "updated_at": "2026-05-28T23:30:00+09:00",
