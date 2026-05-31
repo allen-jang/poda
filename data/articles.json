@@ -45,6 +45,21 @@
     "github_pages_detail_path": "articles/super-isa-20260528.html"
   },
   {
+    "package_id": "vulnerable-living-loans-20260531",
+    "date": "2026-05-31",
+    "topic": "금융취약계층 생계자금 대출 선택지 정리",
+    "status": "final_copy_ready",
+    "category": "loan",
+    "category_label": "신용·대출 > 정책 서민금융",
+    "basis_date": "2026-05-31",
+    "created_at": "2026-05-31T11:20:00+09:00",
+    "updated_at": "2026-05-31T11:56:00+09:00",
+    "selected_title": "금융취약계층 생계자금 대출 선택지 정리: 4.5%·500만원 조건 확인",
+    "bundle_dir": "_workspace/naver-blog/daily/2026-05-31/vulnerable-living-loans-20260531",
+    "site_detail_path": "_workspace/naver-blog/site/articles/vulnerable-living-loans-20260531.html",
+    "github_pages_detail_path": "articles/vulnerable-living-loans-20260531.html"
+  },
+  {
     "package_id": "youth-future-savings-checklist-20260530",
     "date": "2026-05-30",
     "topic": "청년미래적금 6월 22일 신청 전 체크리스트: 5부제·금리·기여금 정리",
