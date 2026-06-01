@@ -30,6 +30,21 @@
     "github_pages_detail_path": "articles/auto-insurance-5day-discount-20260531.html"
   },
   {
+    "package_id": "dormant-deposit-lookup-20260601",
+    "date": "2026-06-01",
+    "topic": "휴면예금 찾아줌: 잊고 있던 예금·보험금 조회",
+    "status": "final_copy_ready",
+    "category": "personal_finance",
+    "category_label": "일상 머니 팁 > 환급·환불 챙기기",
+    "basis_date": "2026-06-01",
+    "created_at": "2026-06-01",
+    "updated_at": "2026-06-01",
+    "selected_title": "휴면예금 찾아줌: 잊고 있던 예금·보험금 조회",
+    "bundle_dir": "_workspace/naver-blog/daily/2026-06-01/dormant-deposit-lookup-20260601",
+    "site_detail_path": "_workspace/naver-blog/site/articles/dormant-deposit-lookup-20260601.html",
+    "github_pages_detail_path": "articles/dormant-deposit-lookup-20260601.html"
+  },
+  {
     "package_id": "growth-fund-isa-20260529",
     "date": "2026-05-29",
     "topic": "국민참여형 국민성장펀드, ISA와 헷갈리는 포인트 정리",
