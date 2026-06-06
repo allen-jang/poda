@@ -60,6 +60,21 @@
     "github_pages_detail_path": "articles/dormant-deposit-lookup-20260601.html"
   },
   {
+    "package_id": "dual-income-couple-money-system-20260606",
+    "date": "2026-06-06",
+    "topic": "맞벌이 부부 자산 운용 시작 순서: 생활비 통장, 연금계좌, 청약통장, 비상금",
+    "status": "final_copy_ready",
+    "category": "money_management",
+    "category_label": "금융상품 기초 > 연금 계좌",
+    "basis_date": "2026-06-06",
+    "created_at": "2026-06-06T11:45:00+09:00",
+    "updated_at": "2026-06-06T11:45:00+09:00",
+    "selected_title": "맞벌이 부부 돈관리 시작 순서: 생활비·연금·청약·비상금 체크리스트",
+    "bundle_dir": "_workspace/naver-blog/daily/2026-06-06/dual-income-couple-money-system-20260606",
+    "site_detail_path": "_workspace/naver-blog/site/articles/dual-income-couple-money-system-20260606.html",
+    "github_pages_detail_path": "articles/dual-income-couple-money-system-20260606.html"
+  },
+  {
     "package_id": "growth-fund-isa-20260529",
     "date": "2026-05-29",
     "topic": "국민참여형 국민성장펀드, ISA와 헷갈리는 포인트 정리",
