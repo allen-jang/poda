@@ -80,7 +80,7 @@
     "topic": "근로·자녀장려금 정기신청 놓친 사람을 위한 기한 후 신청 정리",
     "status": "final_copy_ready",
     "category": "tax",
-    "category_label": "세금·연말정산",
+    "category_label": "정책자금·지원금 > 근로·자녀장려금",
     "basis_date": "2026-06-07",
     "created_at": "2026-06-07T11:45:00+09:00",
     "updated_at": "2026-06-07T00:00:00+09:00",
@@ -118,6 +118,21 @@
     "bundle_dir": "_workspace/naver-blog/daily/2026-06-03/kepco-efficient-appliance-support-20260603",
     "site_detail_path": "_workspace/naver-blog/site/articles/kepco-efficient-appliance-support-20260603.html",
     "github_pages_detail_path": "articles/kepco-efficient-appliance-support-20260603.html"
+  },
+  {
+    "package_id": "loan-refinance-break-even-20260608",
+    "date": "2026-06-08",
+    "topic": "대출 갈아타기 손익분기 계산법: 금리만 낮으면 무조건 이득일까",
+    "status": "final_copy_ready",
+    "category": "loan",
+    "category_label": "신용·대출 > 대출 비교·갈아타기",
+    "basis_date": "2026-06-08",
+    "created_at": "2026-06-08T18:30:00+09:00",
+    "updated_at": "2026-06-08T20:15:00+09:00",
+    "selected_title": "대출 갈아타기 손익분기 계산법: 금리만 낮으면 무조건 이득일까",
+    "bundle_dir": "_workspace/naver-blog/daily/2026-06-08/loan-refinance-break-even-20260608",
+    "site_detail_path": "_workspace/naver-blog/site/articles/loan-refinance-break-even-20260608.html",
+    "github_pages_detail_path": "articles/loan-refinance-break-even-20260608.html"
   },
   {
     "package_id": "seoul-hope-double-youth-account-20260608",
