@@ -45,6 +45,21 @@
     "github_pages_detail_path": "articles/beginner-card-credit-check-20260605.html"
   },
   {
+    "package_id": "climate-card-payback-20260610",
+    "date": "2026-06-10",
+    "topic": "기후동행카드 3만원 페이백 신청: 1차 신청 대상과 기간 정리",
+    "status": "final_copy_ready",
+    "category": "personal_finance",
+    "category_label": "일상 머니 팁 > 환급·환불 챙기기",
+    "basis_date": "2026-06-10",
+    "created_at": "2026-06-10T20:40:00+09:00",
+    "updated_at": "2026-06-10T21:28:00+09:00",
+    "selected_title": "기후동행카드 3만원 페이백 신청 시작: 1차 신청 대상과 기간 정리",
+    "bundle_dir": "_workspace/naver-blog/daily/2026-06-10/climate-card-payback-20260610",
+    "site_detail_path": "_workspace/naver-blog/site/articles/climate-card-payback-20260610.html",
+    "github_pages_detail_path": "articles/climate-card-payback-20260610.html"
+  },
+  {
     "package_id": "dormant-deposit-lookup-20260601",
     "date": "2026-06-01",
     "topic": "휴면예금 찾아줌: 잊고 있던 예금·보험금 조회",
