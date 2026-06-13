@@ -180,6 +180,21 @@
     "github_pages_detail_path": "articles/seoul-hope-double-youth-account-20260608.html"
   },
   {
+    "package_id": "silson24-paperless-claim-20260613",
+    "date": "2026-06-13",
+    "topic": "실손24, 병원 서류 없이 실손보험 청구방법",
+    "status": "final_copy_ready",
+    "category": "insurance",
+    "category_label": "일상 머니 팁 > 보험 점검",
+    "basis_date": "2026-06-13",
+    "created_at": "2026-06-13T10:05:00+09:00",
+    "updated_at": "2026-06-13T14:43:45+09:00",
+    "selected_title": "실손24 청구방법, 병원 서류 없이 실손보험 받는 순서",
+    "bundle_dir": "_workspace/naver-blog/daily/2026-06-13/silson24-paperless-claim-20260613",
+    "site_detail_path": "_workspace/naver-blog/site/articles/silson24-paperless-claim-20260613.html",
+    "github_pages_detail_path": "articles/silson24-paperless-claim-20260613.html"
+  },
+  {
     "package_id": "super-isa-20260528",
     "date": "2026-05-28",
     "topic": "6월 출시 예정으로 언급되는 슈퍼 ISA 계좌 정리",
