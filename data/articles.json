@@ -15,6 +15,21 @@
     "github_pages_detail_path": "articles/5th-gen-silson-20260529.html"
   },
   {
+    "package_id": "accountinfo-autopay-leak-check-20260627",
+    "date": "2026-06-27",
+    "topic": "어카운트인포 자동이체·카드자동납부 정리: 월말 고정비 새는 곳 찾기",
+    "status": "final_copy_ready",
+    "category": "money_management",
+    "category_label": "일상 머니 팁",
+    "basis_date": "2026-06-27",
+    "created_at": "2026-06-27T17:20:00+09:00",
+    "updated_at": "2026-06-27T19:05:00+09:00",
+    "selected_title": "자동이체·카드자동납부, 월말 고정비 새는 곳 찾는 법",
+    "bundle_dir": "_workspace/naver-blog/daily/2026-06-27/accountinfo-autopay-leak-check-20260627",
+    "site_detail_path": "_workspace/naver-blog/site/articles/accountinfo-autopay-leak-check-20260627.html",
+    "github_pages_detail_path": "articles/accountinfo-autopay-leak-check-20260627.html"
+  },
+  {
     "package_id": "auto-insurance-5day-discount-20260531",
     "date": "2026-05-31",
     "topic": "자동차보험 차량 5부제 할인 특약",
