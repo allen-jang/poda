@@ -285,6 +285,21 @@
     "github_pages_detail_path": "articles/silson24-paperless-claim-20260613.html"
   },
   {
+    "package_id": "summer-electric-bill-progressive-calc-20260628",
+    "date": "2026-06-28",
+    "topic": "전기요금 누진제·에어컨 전기세 계산",
+    "status": "final_copy_ready",
+    "category": "money_management",
+    "category_label": "일상 머니 팁",
+    "basis_date": "2026-06-28",
+    "created_at": "2026-06-28T14:31:23+09:00",
+    "updated_at": "2026-06-28T14:31:23+09:00",
+    "selected_title": "에어컨 전기세 계산, 누진제 구간부터 확인하는 법",
+    "bundle_dir": "_workspace/naver-blog/daily/2026-06-28/summer-electric-bill-progressive-calc-20260628",
+    "site_detail_path": "_workspace/naver-blog/site/articles/summer-electric-bill-progressive-calc-20260628.html",
+    "github_pages_detail_path": "articles/summer-electric-bill-progressive-calc-20260628.html"
+  },
+  {
     "package_id": "summer-stay-sale-festa-20260620",
     "date": "2026-06-20",
     "topic": "2026 여름맞이 숙박세일 페스타, 숙박비 최대 7만원 할인받는 법",
