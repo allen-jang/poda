@@ -180,6 +180,21 @@
     "github_pages_detail_path": "articles/energy-voucher-2026-cooling-bill-20260626.html"
   },
   {
+    "package_id": "first-meeting-voucher-guide-20260629",
+    "date": "2026-06-29",
+    "topic": "2026년 첫만남이용권 지원금액·신청방법·사용처 안내",
+    "status": "final_copy_ready",
+    "category": "money_management",
+    "category_label": "정책자금·지원금 > 신규·시즌 정책",
+    "basis_date": "2026-06-29",
+    "created_at": "2026-06-29T11:15:00+09:00",
+    "updated_at": "2026-06-29T14:35:00+09:00",
+    "selected_title": "아기 태어나면 바우처 지급: 첫만남이용권 금액·신청·사용처",
+    "bundle_dir": "_workspace/naver-blog/daily/2026-06-29/first-meeting-voucher-guide-20260629",
+    "site_detail_path": "_workspace/naver-blog/site/articles/first-meeting-voucher-guide-20260629.html",
+    "github_pages_detail_path": "articles/first-meeting-voucher-guide-20260629.html"
+  },
+  {
     "package_id": "gov24-benefit-alert-lookup-20260628",
     "date": "2026-06-28",
     "topic": "정부24 나의 혜택 조회",
