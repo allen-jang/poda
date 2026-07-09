@@ -480,6 +480,21 @@
     "github_pages_detail_path": "articles/youth-driver-license-support-20260708.html"
   },
   {
+    "package_id": "youth-finance-counseling-application-20260709",
+    "date": "2026-07-09",
+    "topic": "청년 모두를 위한 재무상담 신청 절차와 우대금리 조건",
+    "status": "final_copy_ready",
+    "category": "money_management",
+    "category_label": "정책자금·지원금 > 청년 정책",
+    "basis_date": "2026-07-09",
+    "created_at": "2026-07-09T19:52:00+09:00",
+    "updated_at": "2026-07-09T22:39:05+09:00",
+    "selected_title": "청년 재무상담 신청, 7월부터 상시 접수되는 조건과 절차",
+    "bundle_dir": "_workspace/naver-blog/daily/2026-07-09/youth-finance-counseling-application-20260709",
+    "site_detail_path": "_workspace/naver-blog/site/articles/youth-finance-counseling-application-20260709.html",
+    "github_pages_detail_path": "articles/youth-finance-counseling-application-20260709.html"
+  },
+  {
     "package_id": "youth-future-savings-bank-benefits-20260620",
     "date": "2026-06-20",
     "topic": "청년미래적금 은행별 혜택 정리, 최고금리와 우대조건 비교",
