@@ -60,6 +60,21 @@
     "github_pages_detail_path": "articles/beginner-card-credit-check-20260605.html"
   },
   {
+    "package_id": "carbon-neutral-points-green-practice-20260710",
+    "date": "2026-07-10",
+    "topic": "탄소중립포인트 녹색생활실천 전자영수증·텀블러 적립 체크리스트",
+    "status": "final_copy_ready",
+    "category": "money_management",
+    "category_label": "일상 머니 팁",
+    "basis_date": "2026-07-10",
+    "created_at": "2026-07-10T16:20:00+09:00",
+    "updated_at": "2026-07-10T16:50:00+09:00",
+    "selected_title": "전자영수증·텀블러로 포인트 받는 법: 탄소중립포인트 체크리스트",
+    "bundle_dir": "_workspace/naver-blog/daily/2026-07-10/carbon-neutral-points-green-practice-20260710",
+    "site_detail_path": "_workspace/naver-blog/site/articles/carbon-neutral-points-green-practice-20260710.html",
+    "github_pages_detail_path": "articles/carbon-neutral-points-green-practice-20260710.html"
+  },
+  {
     "package_id": "cardpoint-cashout-before-expiry-20260613",
     "date": "2026-06-13",
     "topic": "카드포인트 통합조회, 소멸 전 계좌로 입금받는 방법",
