@@ -360,6 +360,21 @@
     "github_pages_detail_path": "articles/newborn-private-housing-special-supply-20260619.html"
   },
   {
+    "package_id": "rent-support-income-comparison-20260710",
+    "date": "2026-07-10",
+    "topic": "내 소득별 월세 지원 4가지 비교",
+    "status": "final_copy_ready",
+    "category": "personal_finance",
+    "category_label": "청약·주거 > 전월세·임차",
+    "basis_date": "2026-07-10",
+    "created_at": "2026-07-10T21:20:00+09:00",
+    "updated_at": "2026-07-10T21:50:00+09:00",
+    "selected_title": "내 소득별 월세 지원 4가지: 주거급여·월세대출·서울형 바우처 비교",
+    "bundle_dir": "_workspace/naver-blog/daily/2026-07-10/rent-support-income-comparison-20260710",
+    "site_detail_path": "_workspace/naver-blog/site/articles/rent-support-income-comparison-20260710.html",
+    "github_pages_detail_path": "articles/rent-support-income-comparison-20260710.html"
+  },
+  {
     "package_id": "seafood-sale-giftcard-checklist-20260710",
     "date": "2026-07-10",
     "topic": "대한민국 수산대전 상품권과 수산물 할인 확인 포인트",
