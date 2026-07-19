@@ -465,6 +465,21 @@
     "github_pages_detail_path": "articles/seoul-lifelong-education-voucher-20260719.html"
   },
   {
+    "package_id": "seoul-youth-mind-health-20260719",
+    "date": "2026-07-19",
+    "topic": "서울 청년 마음건강 3차 신청",
+    "status": "final_copy_ready",
+    "category": "money_management",
+    "category_label": "정책자금·지원금 > 지자체 정책",
+    "basis_date": "2026-07-19",
+    "created_at": "2026-07-19T18:00:00+09:00",
+    "updated_at": "2026-07-19T19:10:00+09:00",
+    "selected_title": "서울 청년 마음건강 3차 신청, 무료 심리상담 최대 6회기·신청방법 총정리",
+    "bundle_dir": "_workspace/naver-blog/daily/2026-07-19/seoul-youth-mind-health-20260719",
+    "site_detail_path": "_workspace/naver-blog/site/articles/seoul-youth-mind-health-20260719.html",
+    "github_pages_detail_path": "articles/seoul-youth-mind-health-20260719.html"
+  },
+  {
     "package_id": "silson24-paperless-claim-20260613",
     "date": "2026-06-13",
     "topic": "실손24, 병원 서류 없이 실손보험 청구방법",
